@@ -2,7 +2,7 @@
 Yellow &amp; green colored football  kits classifier.
 
 ## Clubs
-Model will predict from 7 Yellow &amp; green colored football  kits having clubs:
+Model will predict from seven clubs which in different period of time have yellow &amp; green colored football  kits:
 * Norwich City F.C.;
 * West Bromwich Albion F.C.;
 * FC Nantes;
