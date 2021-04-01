@@ -1,3 +1,5 @@
+<img src='logo/log_of_rhytm.jpg'/>
+
 # Project_Football_Kits_Classifier
 Yellow &amp; green colored football  kits classifier.
 
