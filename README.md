@@ -1,5 +1,7 @@
 <img src='logo/log_of_rhytm.jpg'/>
 
+# Still in porgress... !!
+
 # Project_Football_Kits_Classifier
 Yellow &amp; green colored football  kits classifier.
 
