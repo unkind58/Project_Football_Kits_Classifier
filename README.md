@@ -20,3 +20,6 @@ Model will predict from ten clubs which in different period of time have yellow 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Render `football_kits_classifier_baseline.ipynb` via nbviewer 
+[football_kits_classifier_baseline.ipynb](https://nbviewer.jupyter.org/github/unkind58/Project_Football_Kits_Classifier/blob/main/football_kits_classifier_baseline.ipynb)
