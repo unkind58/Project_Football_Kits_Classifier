@@ -16,6 +16,9 @@ Model will predict from ten clubs which in different period of time have yellow 
 * Sunderland A.F.C.
 * Fortuna Sittard
 
+## Acknowledgments
+Tribe of AI
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
